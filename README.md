@@ -8,6 +8,6 @@
 
 <p align="center">
   
- ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀  ⠀ ⠀⠀  ⠀ ⠀ ⠀ ⠀⠀[<img src="https://files.catbox.moe/l60g4d.PNG" width="300">](https://github.com/will-the-sorcerer)
+ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀  ⠀ ⠀⠀  ⠀ ⠀ ⠀ ⠀⠀[<img src="https://files.catbox.moe/88c9r7.PNG" width="300">](https://github.com/will-the-sorcerer)
 
 </p>
